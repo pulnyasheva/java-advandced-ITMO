@@ -66,7 +66,7 @@
     * Проверяется исходный код задания.
     * Весь код должен находиться в пакете `info.kgeorgiy.ja.фамилия.walk`.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/walk/Walk.java)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/walk/Walk.java)
 
 ## Домашнее задание 2. Множество на массиве
 
@@ -78,7 +78,7 @@
     * Применение стандартных коллекций.
     * Избавление от повторяющегося кода.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/arrayset/ArraySet.java)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/arrayset/ArraySet.java)
 
 ## Домашнее задание 3. Студенты
 
@@ -91,7 +91,7 @@
     * Применение лямбда-выражений и потоков.
     * Избавление от повторяющегося кода.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/student/StudentDB.java)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/student/StudentDB.java)
 
 ## Домашнее задание 4. Implementor
 
@@ -109,7 +109,7 @@
     * _Бонусный_ — `Implementor` должен уметь реализовывать _generic_-классы и интерфейсы. Сгенерированный код должен
       иметь корректные параметры типов и не порождать `UncheckedWarning`.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/implementor/Implementor.java)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/implementor/Implementor.java)
 
 ## Домашнее задание 5. JarImplementor
 
@@ -126,7 +126,7 @@
     * запускаемый `.jar-файл`.
 4. **Сложный вариант**. Решение должно быть модуляризовано.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/scripts)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/scripts)
 
 ## Домашнее задание 6. Javadoc
 
@@ -141,7 +141,7 @@
     * скрипт для генерации документации;
     * сгенерированная документация.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/javadoc)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/javadoc)
 
 ## Домашнее задание 7. Итеративный параллелизм
 
@@ -161,7 +161,7 @@
 5. Не следует рассчитывать на то, что переданные компараторы, предикаты и функции работают быстро.
 6. При выполнении задания **нельзя** использовать _Concurrency Utilities_.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/blob/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/concurrent/IterativeParallelism.java)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/concurrent/IterativeParallelism.java)
 
 ## Домашнее задание 8. Паралельный запуск
 
@@ -195,7 +195,7 @@ public interface ParallelMapper extends AutoCloseable {
     * Должна быть возможность одновременного запуска и работы нескольких клиентов, использующих один `ParallelMapper`.
 3. При выполнении задания всё ещё **нельзя** использовать _Concurrency Utilities_.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/concurrent)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/concurrent)
 
 ## Домашнее задание 9. Web Crawler
 
@@ -246,7 +246,7 @@ public interface ParallelMapper extends AutoCloseable {
    3. _Бонусная_ — сделать параллельный обход в ширину.
 3. Задание подразумевает активное использование _Concurrency Utilities_, в частности, в решении не должно быть «велосипедов», аналогичных/легко сводящихся к классам из _Concurrency Utilities_.
 
-###  [Решение](https://github.com/pulnyasheva/ITMO/blob/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/crawler/WebCrawler.java)
+###  [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/crawler/WebCrawler.java)
 
 ## Домашнее задание 10. HelloUDP
 
@@ -268,7 +268,7 @@ public interface ParallelMapper extends AutoCloseable {
    * Несмотря на то, что текущий способ получения ответа по запросу очень прост, сервер должен быть рассчитан на ситуацию, когда этот процесс может требовать много ресурсов и времени.
    * Если сервер не успевает обрабатывать запросы, прием запросов может быть временно приостановлен.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/hello)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/hello)
 
 ## Домашнее задание 11. Физические лица
 
@@ -300,8 +300,8 @@ public interface ParallelMapper extends AutoCloseable {
    5. Создайте скрипт, запускающий тесты с использованием стандартного подхода для вашего тестового фреймворка. Код возврата должен быть как в предыдущем пункте.
 5. Приложения и тесты должны находится в пакете `info.kgeorgiy.ja.*.bank` и его подпакетах.
 
-### [Решение](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/solutions/info/kgeorgiy/ja/pulnikova/bank)
+### [Решение](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/solutions/info/kgeorgiy/ja/pulnikova/bank)
 
-### [Тесты к курсу и нужные классы (интерфейсы)](https://github.com/pulnyasheva/ITMO/tree/main/java-advanced/java-advanced-2023)
+### [Тесты к курсу и нужные классы (интерфейсы)](https://github.com/pulnyasheva/java-advandec-ITMO/blob/master/java-advanced-2023)
 
 
